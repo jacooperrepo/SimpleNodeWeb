@@ -1,0 +1,15 @@
+{
+  "name": "SimpleNodeWeb",
+  "version": "0.0.0",
+  "description": "SimpleNodeWeb",
+  "main": "app.js",
+  "author": {
+    "name": "jacooper",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
